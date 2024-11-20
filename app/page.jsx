@@ -1,4 +1,4 @@
-import rooms from "../data/rooms.json";
+import rooms from "@/data/rooms.json";
 import RoomCard from "@/components/RoomCard";
 import Heading from "@/components/Heading";
 
